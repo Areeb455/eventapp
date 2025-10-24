@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "380065803407",
+    "firebase_url": "https://eventapp-a58af-default-rtdb.firebaseio.com",
+    "project_id": "eventapp-a58af",
+    "storage_bucket": "eventapp-a58af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380065803407:android:a2a50a43b2f38aa76694fa",
+        "android_client_info": {
+          "package_name": "com.example.eventapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActb-lJcD8-H7JxK2WpbFB7tPo2G4lMfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380065803407:android:9e1201e0480aa3926694fa",
+        "android_client_info": {
+          "package_name": "com.example.eventsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActb-lJcD8-H7JxK2WpbFB7tPo2G4lMfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
